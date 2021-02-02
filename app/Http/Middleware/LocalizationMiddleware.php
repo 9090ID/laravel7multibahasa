@@ -1,5 +1,5 @@
 <?php
- 
+ //funsinya disini
 namespace App\Http\Middleware;
  
 use Closure;

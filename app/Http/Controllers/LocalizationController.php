@@ -1,7 +1,7 @@
 <?php
  
 namespace App\Http\Controllers;
- 
+ //juga ini
 use App;
 use Illuminate\Http\Request;
  

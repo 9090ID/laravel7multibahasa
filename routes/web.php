@@ -16,6 +16,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
-
+//juga ini
 
 Route::get('lang/{language}', 'LocalizationController@switch')->name('localization.switch');
